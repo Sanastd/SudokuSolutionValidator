@@ -1,7 +1,9 @@
 # Adding Multi-Threaded Support to Single-Threaded Sudoku Solver
 
 This project contains a multi-threaded Sudoku solver implemented in C using POSIX threads (pthreads).
+By using 11 threads, 1 for rows, 1 for columns and 9 for each subgrid, this program will solve the Sudoku puzzle and output the result.
 
+ 
 ## Build and run:
    - build the project:
      ```bash
