@@ -1,8 +1,8 @@
-# Adding Multi-Threading Support to Single-Threaded Sudoku Solver
+# Adding Multi-Threaded Support to Single-Threaded Sudoku Solver
 
 This project contains a multi-threaded Sudoku solver implemented in C using POSIX threads (pthreads).
 
-## Build and run**:
+## Build and run:
    - build the project:
      ```bash
      make
