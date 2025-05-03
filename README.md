@@ -1,4 +1,4 @@
-# Adding Multi-Threaded Support to Single-Threaded Sudoku Solver
+# Multi-Threaded Sudoku Solver
 
 This project contains a multi-threaded Sudoku solver implemented in C using POSIX threads (pthreads).
 
